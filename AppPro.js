@@ -3,7 +3,7 @@
         const shareData = {
   title: "BLUESHARK",
   text: "GRAB OPPORTUNITY TO BE A SHAREHOLDER FOR FREE",
-  url: "http://localhost:8080/index.html",
+  url: "https://bluesharkcompany.github.io/Blueshark-/",
 };
 
 const btn = document.querySelector(".shareSite");
